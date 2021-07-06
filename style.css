@@ -2,3 +2,22 @@ body{
     font-family: 'Poppins', sans-serif;
     border: 0px;
 }
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: rgb(250, 164, 4);
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(230, 169, 56),tomato);
+    color: white;
+    padding:15px 35px;
+    border-radius: 50px;
+    font-weight: 700;
+}
+.container{
+   display: flex;
+   
+}
