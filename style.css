@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    border: 0px;
+    margin: 0%;
 }
 
 .start{
@@ -54,25 +54,35 @@ h1{
 
 }
 
-
-
-.last-section{
-
-}
-
 .last-head{
+    
+    padding: 10px;
     text-align:center;
-    padding: 79px;
        
     
 }
 
 .cooked{
 
+    box-shadow: 10px 10px 10px 10px rgb(61, 43, 43);
+  padding:10px;
+  text-align: justify;
+  border-radius: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 30%;
+  height: 50%;
+  box-sizing: inherit;
+
+
+
+
 }
 
-
 #Recipies1{
+  
+  
+
 
 }
 
@@ -82,4 +92,12 @@ h1{
 
 #Recipies3{
 
+}
+
+
+.end{
+    text-align:center;
+    background-color: black;
+    color:white;
+    padding: 10px;
 }
