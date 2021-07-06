@@ -5,10 +5,9 @@ body{
 
 .start{
     text-align:center;
-    background-color: rgb(4, 77, 77);
-    color:white;
     padding: 10px;
     font-size: 50px;
+    background-image: url(images/ww.jpg);
 }
 
 h1{
@@ -21,7 +20,9 @@ h1{
 }
 
 .red-color{
-    color: rgb(135, 250, 4);
+    color: #56e72a;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
 }
 .link-button{
     text-decoration: none;
@@ -74,16 +75,10 @@ h1{
   height: 50%;
   box-sizing: inherit;
 
-
-
-
 }
 
 #Recipies1{
   
-  
-
-
 }
 
 #Recipies2{
@@ -93,7 +88,6 @@ h1{
 #Recipies3{
 
 }
-
 
 .end{
     text-align:center;
