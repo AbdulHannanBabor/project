@@ -2,12 +2,26 @@ body{
     font-family: 'Poppins', sans-serif;
     border: 0px;
 }
+
+.start{
+    text-align:center;
+    background-color: rgb(4, 77, 77);
+    color:white;
+    padding: 10px;
+    font-size: 50px;
+}
+
 h1{
     font-size: 50px;
 }
 .orange-color{
     color: rgb(250, 164, 4);
+    
 
+}
+
+.red-color{
+    color: rgb(135, 250, 4);
 }
 .link-button{
     text-decoration: none;
@@ -38,4 +52,26 @@ h1{
     text-align: justify;
     background-position: center;
 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.end{
+    text-align:center;
+    background-color: black;
+    color:white;
+    padding: 10px;
 }
