@@ -19,7 +19,7 @@ h1{
 }
 .container{
    display: flex;
-   margin-bottom: 100px;
+   margin-bottom: 50px;
 
 }
 .half-width{
@@ -30,4 +30,12 @@ h1{
 }
 .half-width img{
     width: 80%;
+}
+.about-me{
+    background-image: url(images/5.png);
+    background-repeat: no-repeat;
+    padding: 5%;
+    text-align: justify;
+    background-position: center;
+
 }
